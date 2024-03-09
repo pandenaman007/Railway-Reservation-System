@@ -2,7 +2,7 @@
 Welcome to the Railway Reservation System! This project is a dynamic and efficient system for managing railway reservations. Leveraging Spring Boot Rest APIs and following a layered architecture (Controller, Service, DAO), it ensures loose coupling and easy maintenance. The project utilizes Java Collection Framework for an in-memory database and supports persistence with MySQL and MongoDB.
 
 
-#Introduction
+Introduction
 The Railway Reservation System is designed to simplify and streamline the process of railway ticket reservations. It incorporates a layered architecture consisting of Controller, Service, and DAO layers, ensuring separation of concerns and easy maintenance. This architecture enables the system to handle requests efficiently and maintain scalability.
 
 Features
